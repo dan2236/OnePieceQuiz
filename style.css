@@ -1,6 +1,7 @@
 /*root and body styling*/
 
 h1 {
+    font-size: clamp(0.9375rem, 0.6481rem + 1.5432vw, 2.5rem);
     margin: 0;
     font-family: 'Pirate', cursive;
     color: #FFD700;
@@ -44,10 +45,9 @@ body > div {
 }
 
 #question {
+    font-size: clamp(0.75rem, 0.5995rem + 0.8025vw, 1.5625rem);
     font-family: 'Pirate', cursive;
     color: red;
-    text-shadow:
-            2px 2px 0 #000;
 }
 
 
