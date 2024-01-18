@@ -1,14 +1,11 @@
 /*root and body styling*/
 
 h1 {
-    font-size: clamp(0.9375rem, 0.6481rem + 1.5432vw, 2.5rem);
+    font-size: clamp(1.125rem, 0.8704rem + 1.358vw, 2.5rem);
     margin: 0;
     font-family: 'Pirate', cursive;
     color: #FFD700;
-    text-shadow:
-            2px 2px 0 #000,
-            3px 3px 0 #000,
-            4px 4px 0 #000;
+    text-shadow: black;
     padding: 10px;
 }
 
