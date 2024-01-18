@@ -46,6 +46,8 @@ const questions = [
     }
 ]
 
+//
+
 let displayedQuestion = document.getElementById("question")
 const questionField1 = document.getElementById("field1")
 const questionField2 = document.getElementById("field2")
